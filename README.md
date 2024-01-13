@@ -23,3 +23,29 @@
 </li>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="BOTS DE WHATSAPP" width="35" height="35"> BOTS DE WHATSAPP
+
+---------
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="TheMystic-Bot-MD" width="42" height="42"> TheMystic-Bot-MD
+[![Menu2-1.jpg](https://i.postimg.cc/TwsbfYhF/Menu2-1.jpg)](https://postimg.cc/BLxbC3TB)
+
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
+---------
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="The-LoliBot-MD" width="42" height="42"> The-LoliBot-MD
+[![Menu5.jpg](https://i.postimg.cc/brXQ1w8b/Menu5.jpg)](https://postimg.cc/jwXwbKDd)
+
+<a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=omni)</a>
+---------
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="SakuraBotLite-MD" width="42" height="42"> SakuraBotLite-MD
+[![Menu.jpg](https://i.postimg.cc/Bbc1D5m9/Menu.jpg)](https://postimg.cc/kRG4PSrf)
+
+<a href="https://github.com/diegojadibot/SakuraBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBotLite-MD&theme=omni)</a>
+---------
+
+<div align="center">
+  <h1 align="center">👑 DUEÑO DE LA CUENTA 👑</h1>
+
+<a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="おDaniel"/></a>
+
+`SupportBots de WhatsApp / Alan Oficial`
