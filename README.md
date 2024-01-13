@@ -3,7 +3,7 @@
 
   <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://cardivo.vercel.app/api?name=Support&description=Hola,%20soy%20SupportBots%20👋🏻&image=https://i.postimg.cc/FKPn43vZ/7d353076f57f9e07f350bf7cec206b37.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Alan_OFC&youtube=Hacobo_Fb&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
-<h3 align="center"> MI INFO </h3>
+<h3 align="center">📚 MI INFO 📚</h3>
 <p align="center">
 <img src="https://i.postimg.cc/wvqHWhVQ/cb0ff0cd14f228b38cb31e6ef35200d2.jpg" alt="AlanOFC" width="2050"/>
 </div>
@@ -45,4 +45,8 @@
 <a href="https://github.com/diegojadibot/SakuraBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBotLite-MD&theme=omni)</a>
 </details>
 
+<div align="center">
+  <h1 align="center">👑 DUEÑO DE LA CUENTA 👑</h1>
+
+<a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
 `SupportBots de WhatsApp / Alan Oficial`
