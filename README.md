@@ -44,11 +44,5 @@
 [![Menu.jpg](https://i.postimg.cc/Bbc1D5m9/Menu.jpg)](https://postimg.cc/kRG4PSrf)
 <a href="https://github.com/diegojadibot/SakuraBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=diegojadibot&repo=SakuraBotLite-MD&theme=omni)</a>
 </details>
---------- 
-
-<div align="center">
-  <h1 align="center">👑 DUEÑO DE LA CUENTA 👑</h1>
-
-<a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="おDaniel"/></a>
 
 `SupportBots de WhatsApp / Alan Oficial`
