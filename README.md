@@ -106,6 +106,24 @@
 <p align="center">
 <img src="https://i.postimg.cc/wvqHWhVQ/cb0ff0cd14f228b38cb31e6ef35200d2.jpg" alt="GuardianBot" width="2050"/>
 
+#`WhatsApp para contactar`
+
+[![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
+
+[![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
+
+[![WhatsApp](https://img.shields.io/badge/Legionaria-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
+
+[![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
+
+#`Paypal para donar`
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ColaboracionBotOFC)
+
+#`Instagram / Nueva Cuenta`
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seniorhekyzde)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=footer"/>
 
 
