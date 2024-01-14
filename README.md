@@ -134,6 +134,7 @@ npm start
 <a href="https://github.com/elrebelde21/NovaBot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=elrebelde21/NovaBot-MD" /> 
 </a>
+<details>
 <summary><b>¿INSTALAR POR AQUI?</b></summary>
 
 ```bash
