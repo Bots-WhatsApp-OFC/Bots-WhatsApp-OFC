@@ -95,6 +95,8 @@
 </a>
 </details>
 
+> **Nota** Si van a editar un bot, dejen algunos creditos de los creadores oficiales del bot, no me hago responsable del mal uso que se le de, si el bot esta prohibido por el creador, no tengo por que dar respuestas a eso, esta cuenta trata de presentar a los bots famosos en el uso de WhatsApp nada mas.
+
 ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="CONTACTANOS" width="35" height="35"> CONTACTANOS
  
 <h2 align="center">🌎 Cuenta Oficial 🌎</h2>
