@@ -76,6 +76,26 @@
 <a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+termux-setup-storage
+```
+```bash
+apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+```bash
+git clone https://github.com/GataNina-Li/GataBot-MD && cd GataBot-MD
+```
+```bash
+yarn install && npm install
+```
+```bash
+npm start
+```
+> **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
+</details>
 
 ## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 
