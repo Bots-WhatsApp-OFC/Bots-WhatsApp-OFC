@@ -172,6 +172,46 @@ npm start
 <a href="https://github.com/GataNina-Li/GataBotLite-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBotLite-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt update
+```
+
+```bahs
+apt upgrade
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick yarn
+```
+
+```bash
+git clone https://github.com/GataNina-Li/GataBotLite-MD
+```
+
+```bash
+cd GataBotLite-MD
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
+</details>
+
 ## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 
 ## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="CuriosityBot-MD" width="42" height="42"> CuriosityBot-MD
@@ -180,6 +220,37 @@ npm start
 <a href="https://github.com/AzamiJs/CuriosityBot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+```
+
+```bash
+git clone https://github.com/AzamiJs/CuriosityBot-MD && cd CuriosityBot-MD && yarn install && npm install
+```
+
+```bash
+ls
+```
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+</details>
+## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 </details>
 
 > **Nota** Si van a editar un bot, dejen algunos creditos de los creadores oficiales del bot, no me hago responsable del mal uso que se le de, si el bot esta prohibido por el creador, no tengo por que dar respuestas a eso, esta cuenta trata de presentar a los bots famosos en el uso de WhatsApp nada mas.
