@@ -40,6 +40,41 @@
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=BrunoSobrino/TheMystic-Bot-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+cd && termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
+
+```bash
+git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+</details>
 
 ## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 
@@ -49,6 +84,16 @@
 <a href="https://github.com/elrebelde21/The-LoliBot-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=elrebelde21/The-LoliBot-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+termux-setup-storage
+```
+```bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/elrebelde21/LoliBot-MD/master/install.sh | bash
+```
+</details>
 
 ## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 
@@ -58,6 +103,28 @@
 <a href="https://github.com/diegojadibot/SakuraBotLite-MD/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=diegojadibot/SakuraBotLite-MD" /> 
 </a>
+<details>
+<summary><b>¿INSTALAR POR AQUI?</b></summary>
+
+```bash
+termux-setup-storage
+```
+```bash
+apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
+```
+```bash
+git clone https://github.com/diegojadibot/SakuraBotLite-MD
+```
+```bash
+cd SakuraBot-MD
+```
+```bash
+yarn isntall
+```
+```bash
+npm start
+```
+</details>
 
 ## • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ • ┄ •
 
