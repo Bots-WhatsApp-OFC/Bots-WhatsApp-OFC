@@ -21,15 +21,15 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- ❤️ Estudiante de programación.
+- <img src="accesos/imagenes/Rocket.png" width="30"> Estudiante de programación.
   
-- 🌎 Trabajo en linea.
+- <img src="accesos/imagenes/Comet.png" width="30"> Trabajo en linea.
   
-- 🎋 Diseño por aplicaciones.
+- <img src="accesos/imagenes/Cyclone.png" width="30"> Diseño por aplicaciones.
   
-- 🧠 Colaborar en un proyecto.
+- <img src="accesos/imagenes/Fire.png" width="30"> Colaborar en un proyecto.
   
-- 👑 Mas trabajado: github
+- <img src="accesos/imagenes/Heart on Fire.png" width="30"> Mas trabajado: github
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -321,7 +321,7 @@ npm start
 <p align="center">
 <img src="https://i.postimg.cc/wvqHWhVQ/cb0ff0cd14f228b38cb31e6ef35200d2.jpg" alt="GuardianBot" width="2050"/>
 
-# `WhatsApp para contactar`
+<img src="accesos/imagenes/Rocket.png" width="30"> `WhatsApp para contactar`
 
 <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
 
@@ -331,14 +331,14 @@ npm start
 
 <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
 
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> ¿Quieres poner emojis en movimiento en el diseño de tu proyecto? haga click abajo ⬇️
+<img src="accesos/imagenes/Rocket.png" width="30"> ¿Quieres poner emojis en movimiento en el diseño de tu proyecto? haga click abajo <img src="accesos/imagenes/Rocket.png" width="30">
 
-[`🤪 Github-Emoji 🥴`](https://github.com/Bots-WhatsApp-OFC/Github-Emoji)
+<img src="accesos/imagenes/T-Rex.png" width="30"> [`🤪 Github-Emoji 🥴`](https://github.com/Bots-WhatsApp-OFC/Github-Emoji)
 
 > [!IMPORTANT]
-> Si no sabes cómo agregar emojis a tu github, te enseño como, haciendo click en mi [numero](https://wa.me/5493873687620) para darte opciones y formas de decorar tu github 👑
+> Si no sabes cómo agregar emojis a tu github, te enseño como, haciendo click en mi [numero](https://wa.me/5493873687620) para darte opciones y formas de decorar tu github <img src="accesos/imagenes/Man Technologist Light Skin Tone.png" width="30">
 
-`Paypal para donar`
+<img src="accesos/imagenes/Comet.png" width="30"> `Paypal para donar` <img src="accesos/imagenes/Comet.png" width="30">
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ColaboracionBotOFC)
 
@@ -348,10 +348,11 @@ npm start
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
-  <h1 align="center">👑 DUEÑO DE LA CUENTA 👑</h1>
+  <h1 align="center"> <img src="accesos/imagenes/Heart on Fire.png" width="30"> DUEÑO DE LA CUENTA <img src="accesos/imagenes/Heart on Fire.png" width="30"> </h1>
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
-`SupportBots de WhatsApp / Alan Oficial`
+
+<img src="accesos/imagenes/Comet.png" width="30"> `SupportBots de WhatsApp / Alan Oficial` <img src="accesos/imagenes/Comet.png" width="30">
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
