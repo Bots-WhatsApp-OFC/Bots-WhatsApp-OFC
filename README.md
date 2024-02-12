@@ -326,7 +326,7 @@ npm start
 <h2 align="center">🏆 𝐂𝐔𝐄𝐍𝐓𝐀 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 🏆</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=header"/>
 
-[![a3c3776b73f2ac4aa70ba7db2a5f66f6.gif](https://i.postimg.cc/XYbCFjLV/a3c3776b73f2ac4aa70ba7db2a5f66f6.gif)](https://postimg.cc/dL53cKgX)
+[![81bb4b165684019-640b6038d133e.gif](https://i.postimg.cc/kgj9FwCT/81bb4b165684019-640b6038d133e.gif)](https://postimg.cc/JsB9RNGX)
 
 <img src="accesos/imagenes/Rocket.png" width="30"> `WhatsApp para contactar`
 
