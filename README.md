@@ -6,7 +6,7 @@
 <h2 align="center">👑 𝐌𝐈 𝐏𝐄𝐑𝐅𝐈𝐋 👑</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=header"/>
 
-  <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://cardivo.vercel.app/api?name=Support&description=Hola,%20soy%20SupportBots%20👋🏻&image=https://i.postimg.cc/FKPn43vZ/7d353076f57f9e07f350bf7cec206b37.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=Alan_OFC&youtube=Hacobo_Fb&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+[![fd40a4b8b151c4e432106576187d03c9.gif](https://i.postimg.cc/wjXBdDhz/fd40a4b8b151c4e432106576187d03c9.gif)](https://postimg.cc/Jsh8ND6Y)
 
 ![Support GitHub stats](https://github-readme-stats.vercel.app/api?username=bots-whatsapp-ofc&theme=midnight-purple&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bots-WhatsApp-OFC&theme=midnight-purple&locale=es)](https://github.com/Bots-WhatsApp-OFC)
@@ -59,6 +59,8 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+[![maxresdefault.jpg](https://i.postimg.cc/tTZTwwkS/maxresdefault.jpg)](https://postimg.cc/njxpQd6B)
 
 ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="BOTS DE WHATSAPP" width="35" height="35"> BOTS DE WHATSAPP
 
@@ -324,11 +326,7 @@ npm start
 <h2 align="center">🏆 𝐂𝐔𝐄𝐍𝐓𝐀 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 🏆</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=header"/>
 
-  <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://cardivo.vercel.app/api?name=GuardianOficial&description=Hola,%20contactanos%20aqui&image=https://i.postimg.cc/44BwXnd2/Picsart-24-01-07-12-28-16-715.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&whatsapp=Guardian_Bots&youtube=Guardian_WBO&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-    
-<h3 align="center"> Datos a saber </h3>
-<p align="center">
-<img src="https://i.postimg.cc/wvqHWhVQ/cb0ff0cd14f228b38cb31e6ef35200d2.jpg" alt="GuardianBot" width="2050"/>
+[![a3c3776b73f2ac4aa70ba7db2a5f66f6.gif](https://i.postimg.cc/XYbCFjLV/a3c3776b73f2ac4aa70ba7db2a5f66f6.gif)](https://postimg.cc/dL53cKgX)
 
 <img src="accesos/imagenes/Rocket.png" width="30"> `WhatsApp para contactar`
 
@@ -339,6 +337,16 @@ npm start
 <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/Legionaria-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
 
 <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<img src="accesos/imagenes/Heart on Fire.png" width="30"> `Soporte de bots / Telegram`
+
+<img src="https://i.postimg.cc/k5tPmCrb/telegram-gif.gif" alt="telegram-gif" width="23" height="23" /> [![telegram](https://img.shields.io/badge/SupportBots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoporteBotsOFC)
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="accesos/imagenes/Rocket.png" width="30"> ¿Quieres poner emojis en movimiento en el diseño de tu proyecto? haga click abajo <img src="accesos/imagenes/Rocket.png" width="30">
 
