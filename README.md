@@ -60,7 +60,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-[![maxresdefault.jpg](https://i.postimg.cc/tTZTwwkS/maxresdefault.jpg)](https://postimg.cc/njxpQd6B)
+[![pixel-art-hermoso-cielo-estrellado-nocturno-887552-24900.jpg](https://i.postimg.cc/2StMStrN/pixel-art-hermoso-cielo-estrellado-nocturno-887552-24900.jpg)](https://postimg.cc/4YzB8BYW)
 
 ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="BOTS DE WHATSAPP" width="35" height="35"> BOTS DE WHATSAPP
 
