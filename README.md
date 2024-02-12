@@ -15,7 +15,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="center">🎋 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐌𝐈𝐀 🎋</h3>
+<h3 align="center"><img src="accesos/imagenes/T-Rex.png" width="30"> 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐌𝐈𝐀 <img src="accesos/imagenes/T-Rex.png" width="30"></h3>
 <p align="center">
 
 
@@ -30,6 +30,15 @@
 - <img src="accesos/imagenes/Fire.png" width="30"> Colaborar en un proyecto.
   
 - <img src="accesos/imagenes/Heart on Fire.png" width="30"> Mas trabajado: github
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h3 align="center"><img src="accesos/imagenes/Fire.png" width="30"> 𝐌𝐈𝐒 𝐏𝐑𝐎𝐘𝐄𝐂𝐓𝐎𝐒 <img src="accesos/imagenes/Fire.png" width="30"></h3>
+<p align="center">
+
+<a href="https://github.com/Bots-WhatsApp-OFC/Github-Emoji">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=Github-Emoji&theme=omni)</a>
+<a href="https://github.com/Bots-WhatsApp-OFC/Personalizado-readme">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=Personalizado-readme&theme=omni)</a>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
