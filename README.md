@@ -323,21 +323,24 @@ npm start
 
 # `WhatsApp para contactar`
 
-[![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
 
-[![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
 
-[![WhatsApp](https://img.shields.io/badge/Legionaria-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/Legionaria-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
 
-[![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
 
-#`Paypal para donar`
+<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> ¿Quieres poner emojis en movimiento en el diseño de tu proyecto? haga click abajo ⬇️
+
+[`🤪 Github-Emoji 🥴`](https://github.com/Bots-WhatsApp-OFC/Github-Emoji)
+
+> [!IMPORTANT]
+> Si no sabes cómo agregar emojis a tu github, te enseño como, haciendo click en mi [numero](https://wa.me/5493873687620) para darte opciones y formas de decorar tu github 👑
+
+`Paypal para donar`
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/ColaboracionBotOFC)
-
-#`Instagram / Nueva Cuenta`
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seniorhekyzde)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=footer"/>
 
