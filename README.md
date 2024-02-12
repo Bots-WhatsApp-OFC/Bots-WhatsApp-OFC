@@ -64,7 +64,7 @@
 <img src="https://contrib.rocks/image?repo=BrunoSobrino/TheMystic-Bot-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 cd && termux-setup-storage
@@ -108,7 +108,7 @@ npm start
 <img src="https://contrib.rocks/image?repo=elrebelde21/The-LoliBot-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -127,7 +127,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - 
 <img src="https://contrib.rocks/image?repo=diegojadibot/SakuraBotLite-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -158,7 +158,7 @@ npm start
 <img src="https://contrib.rocks/image?repo=elrebelde21/NovaBot-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -186,7 +186,7 @@ npm start
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -215,7 +215,7 @@ npm start
 <img src="https://contrib.rocks/image?repo=GataNina-Li/GataBotLite-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -266,7 +266,7 @@ npm start
 <img src="https://contrib.rocks/image?repo=AzamiJs/CuriosityBot-MD" /> 
 </a>
 <details>
-<summary><b>¿INSTALAR POR AQUI?</b></summary>
+<summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
 
 ```bash
 termux-setup-storage
@@ -299,7 +299,7 @@ npm start
 </details>
 
 > [!NOTE]
-> Si van a editar un bot, dejen algunos creditos de los creadores oficiales del bot, no me hago responsable del mal uso que se le de, si el bot esta prohibido por el creador, no tengo por que dar respuestas a eso, esta cuenta trata de presentar a los bots famosos en el uso de WhatsApp nada mas.
+> Si van a editar un bot, dejen algunos creditos de los creadores oficiales del bot, no me hago responsable del mal uso que se le de, si el bot esta prohibido por el creador, no tengo por que dar respuestas a eso, esta cuenta trata de presentar a los bots famosos en el uso de WhatsApp nada mas. <img src="accesos/imagenes/Robot.png" width="30">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bots-WhatsApp-OFC&label=Profile%20views&color=0e75b6&style=flat" alt="Bots-WhatsApp-OFC" /> </p>
