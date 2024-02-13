@@ -38,7 +38,25 @@
 
 <a href="https://github.com/Bots-WhatsApp-OFC/Github-Emoji">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=Github-Emoji&theme=omni)</a>
 <a href="https://github.com/Bots-WhatsApp-OFC/Personalizado-readme">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=Personalizado-readme&theme=omni)</a>
+<a href="https://github.com/Bots-WhatsApp-OFC/Github-Emoji-T">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=Github-Emoji-T&theme=omni)</a>
+<a href="https://github.com/Bots-WhatsApp-OFC/SharkBot-Beta">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=SharkBot-Beta&theme=omni)</a>
 
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<h3 align="center"><img src="accesos/imagenes/Robot.png" width="30"> 𝐂𝐇𝐀𝐓 𝐆𝐏𝐓 / 𝐎𝐍 <img src="accesos/imagenes/Robot.png" width="30"></h3>
+<p align="center">
+
+> [!NOTE]
+> Puedes entrar a chatgpt gratis presionando la imagen, tambien puede checar el repositorio 🥰, o tambien puedes entrar por el enlace.
+
+[`🤖 ChatGPT-Bots-WhatsApp-OFC 🤖`](https://chat.vercel.ai/opengraph-image.png)
+<a href="https://chat.vercel.ai/">
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="https://chat.vercel.ai/opengraph-image.png">
+  <h1 align="center">🔥 Bot Creado con Next.js 🔥</h1>
+</a>
+
+<a href="https://github.com/Bots-WhatsApp-OFC/ON-ChatGPT">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=ON-ChatGPT&theme=omni)</a>
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
