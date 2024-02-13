@@ -18,7 +18,6 @@
 <h3 align="center"><img src="accesos/imagenes/T-Rex.png" width="30"> 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 𝐌𝐈𝐀 <img src="accesos/imagenes/T-Rex.png" width="30"></h3>
 <p align="center">
 
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - <img src="accesos/imagenes/Rocket.png" width="30"> Estudiante de programación.
