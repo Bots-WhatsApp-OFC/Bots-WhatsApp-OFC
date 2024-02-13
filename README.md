@@ -1,7 +1,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://media2.giphy.com/media/cDZJ17fbzWVle68VCB/giphy.gif?cid=6c09b9520i5juglksnrij6gpolm0mxlhnrv5v9mvk8aqkjvy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s?raw=true" width = 120px></picture></p>
 
 <h2 align="center">👑 𝐌𝐈 𝐏𝐄𝐑𝐅𝐈𝐋 👑</h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=header"/>
