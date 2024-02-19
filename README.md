@@ -381,6 +381,55 @@ npm start
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+<img src="accesos/imagenes/Heart on Fire.png" width="30">REQUISITOS PARA CONTRATARME<img src="accesos/imagenes/Heart on Fire.png" width="30">
+
+<img src="accesos/imagenes/Thinking Face.png" width="20"> Puedes darme una de cualquiera de estas cosas si tienes, asi te ayudare.
+
+<img src="accesos/imagenes/Check Mark Button.png" width="20"> Regalar `un numero virtual` por un bot editado, `dos por un bot creado.`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="20"> Regalar `un numero oficial` por un bot editado, `dos por un bot creado.`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="20"> Donar `5$ en PayPal` por un bot editado.
+
+<img src="accesos/imagenes/Check Mark Button.png" width="20"> Donar `10$ en PayPal` por un bot creado.
+
+<img src="accesos/imagenes/Check Mark Button.png" width="20"> Un `Token GuardianBot-MD`
+
+<img src="accesos/imagenes/Eyes.png" width="20"> Quieres que colabore en tu proyecto? Puedes darme una de esas cosas mensionadas anteriormente.
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<details> 
+<summary><img src="accesos/imagenes/Fire.png" width="20"> VER COLABORADORES <img src="accesos/imagenes/Fire.png" width="20"></summary>
+
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Rodrigo_Official`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Amy-OfC`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Fernando_423`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Español-X-Ingles`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `FantasyMan`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Sandra-Lola`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Luisito 343_Osito`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Daniel&`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Faku_242_Woli`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `Lalo-LoCo`
+
+<img src="accesos/imagenes/Check Mark Button.png" width="15"> `The-Far/Zante`
+
+</details>
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <a href="https://github.com/Bots-WhatsApp-OFC" target="_blank">
   <img src="https://img.shields.io/badge/-Mi%20GitHub-blueviolet?style=for-the-badge&logo=github" alt="Mi Github">
 </a>
@@ -390,7 +439,7 @@ npm start
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
 
-<img src="accesos/imagenes/Comet.png" width="30"> `SupportBots de WhatsApp / Alan Oficial` <img src="accesos/imagenes/Comet.png" width="30">
+<img src="accesos/imagenes/Comet.png" width="30"> `SupportBots WhatsApp / Alan Oficial` <img src="accesos/imagenes/Comet.png" width="30">
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
