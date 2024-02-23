@@ -442,11 +442,14 @@ npm start
   <h1 align="center"> <img src="accesos/imagenes/Heart on Fire.png" width="30"> DUEÑO DE LA CUENTA <img src="accesos/imagenes/Heart on Fire.png" width="30"> </h1>
 
 <a href="https://github.com/Bots-WhatsApp-OFC"><img src="https://github.com/Bots-WhatsApp-OFC.png" width="300" height="300" alt="SupportBots"/></a>
+
 <img src="accesos/imagenes/Comet.png" width="30"> `Seguimiento / Bots-WhatsApp-OFC` <img src="accesos/imagenes/Comet.png" width="30">
+
 <img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/ON-ChatGPT" /> 
 </a>
 <img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/Github-Emoji" /> 
 </a>
+
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
