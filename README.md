@@ -342,22 +342,28 @@ npm start
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="CONTACTANOS" width="35" height="35"> CONTACTANOS
+### <img src="accesos/iconos/whatsapp.gif" width="30"> Contactanos si tienes dudas
  
-<h2 align="center">🏆 𝐂𝐔𝐄𝐍𝐓𝐀 𝐎𝐅𝐈𝐂𝐈𝐀𝐋 🏆</h2>
+<h2 align="center"><img src="accesos/iconos/whatsapp.gif" width="30"> 𝐂𝐔𝐄𝐍𝐓𝐀𝐒 𝐎𝐅𝐈𝐂𝐈𝐀𝐋𝐄𝐒 <img src="accesos/iconos/whatsapp.gif" width="30"></h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00B0FF&height=120&section=header"/>
 
 [![81bb4b165684019-640b6038d133e.gif](https://i.postimg.cc/kgj9FwCT/81bb4b165684019-640b6038d133e.gif)](https://postimg.cc/JsB9RNGX)
 
 <img src="accesos/imagenes/Rocket.png" width="30"> `WhatsApp para contactar`
 
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620)
+[![WhatsApp](https://img.shields.io/badge/SupportBots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873687620) <img src="accesos/iconos/whatsapp.gif" width="30">
 
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340)
+[![WhatsApp](https://img.shields.io/badge/GuardianOficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19145948340) <img src="accesos/iconos/whatsapp.gif" width="30">
 
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/Legionaria-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653)
+[![WhatsApp](https://img.shields.io/badge/Liz•OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51977272240) <img src="accesos/iconos/whatsapp.gif" width="30">
 
-<img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Github-Emoji/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> [![WhatsApp](https://img.shields.io/badge/EspañolXIngles-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452636)
+[![WhatsApp](https://img.shields.io/badge/Atsushi321-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51947454367) <img src="accesos/iconos/whatsapp.gif" width="30">
+
+[![WhatsApp](https://img.shields.io/badge/Eli•OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491130288378) <img src="accesos/iconos/whatsapp.gif" width="30">
+
+[![WhatsApp](https://img.shields.io/badge/Axel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491124919007) <img src="accesos/iconos/whatsapp.gif" width="30">
+
+[![WhatsApp](https://img.shields.io/badge/Amy•OFC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493873452653) <img src="accesos/iconos/whatsapp.gif" width="30">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
