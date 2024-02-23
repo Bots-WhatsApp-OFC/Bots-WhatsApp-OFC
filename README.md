@@ -447,8 +447,6 @@ npm start
 
 <img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/ON-ChatGPT" /> 
 </a>
-<img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/Github-Emoji" /> 
-</a>
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
