@@ -401,7 +401,9 @@ npm start
 
 <img src="accesos/imagenes/Rocket.png" width="30"> ¿Quer colocar emojis em movimento no design do seu projeto? clique abaixo <img src="accesos/imagenes/Rocket.png" width="30">
 
-<img src="accesos/imagenes/T-Rex.png" width="30"> [`🤪 Github-Emoji 🥴`](https://github.com/Bots-WhatsApp-OFC/Github-Emoji)
+<img src="accesos/imagenes/T-Rex.png" width="30"> <a href="https://github.com/Bots-WhatsApp-OFC/Github-Emoji" target="_blank">
+  <img src="https://img.shields.io/badge/-Github%20Emoji-magenta?style=for-the-badge&logo=github" alt="Github Emoji">
+</a> <img src="accesos/imagenes/T-Rex.png" width="30">
 
 > [!IMPORTANT]
 > Se você não sabe como adicionar emojis ao seu github, vou te mostrar como clicar no meu [número](https://wa.me/5493873687620) para ver opções e formas de decorar seu github. <img src="accesos/imagenes/Man Technologist Light Skin Tone.png" width="30">
