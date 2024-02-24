@@ -17,11 +17,17 @@
 ### `[ EN ]: Please choose the language to understand the repository.`
 ### `[ PT ]: Escolha o idioma para entender o repositório.`
 
-[`Español / Spanish`](https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/blob/main/README.md)
+<a href="https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC" target="_blank">
+  <img src="https://img.shields.io/badge/-Español%20/%20Spanish-cyan?style=for-the-badge&logo=github" alt="Español / Spanish">
+</a>
 
-[`Ingles / English`](https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/blob/main/README-en-br.md)
+<a href="https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/blob/main/README-en-br.md" target="_blank">
+  <img src="https://img.shields.io/badge/-Ingles%20/%20English-red?style=for-the-badge&logo=github" alt="Ingles / English">
+</a>
 
-[`Brasil`](https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/blob/main/README-pt-br.md)
+<a href="https://github.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/blob/main/README-pt-br.md" target="_blank">
+  <img src="https://img.shields.io/badge/-Brasil-green?style=for-the-badge&logo=github" alt="Brasil">
+</a>
 
 `Multi Lenguaje: Repo-Beta 1.3.0`
 
