@@ -113,11 +113,11 @@
  <details> 
    <summary>✅ 𝐇𝐀𝐆𝐀 𝐂𝐋𝐈𝐂𝐊 𝐀𝐐𝐔𝐈 ✅</summary>
 
-## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="TheMystic-Bot-MD" width="42" height="42"> TheMystic-Bot-MD
-[![Menu2-1.jpg](https://i.postimg.cc/TwsbfYhF/Menu2-1.jpg)](https://postimg.cc/BLxbC3TB)
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=omni)</a>
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=BrunoSobrino/TheMystic-Bot-MD" /> 
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="TheMystic-Bot-MD" width="42" height="42"> NaufraZapp-MD
+[![Menu2.jpg](https://i.postimg.cc/3J8MnQnw/Menu2.jpg)](https://postimg.cc/3WcbxVMM)
+<a href="https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Bots-WhatsApp-OFC&repo=NaufraZapp-MD&theme=omni)</a>
+<a href="https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Bots-WhatsApp-OFC/ON-ChatGPT" /> 
 </a>
 <details>
 <summary><b>¿INSTALAR POR AQUI? <img src="accesos/imagenes/Robot.png" width="30"></b></summary>
@@ -135,7 +135,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD
+git clone https://github.com/Bots-WhatsApp-OFC/NaufraZapp-MD.git && cd NaufraZapp-MD
 ```
 
 ```bash
