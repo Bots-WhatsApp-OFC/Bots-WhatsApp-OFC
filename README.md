@@ -31,6 +31,9 @@
 
 `Multi Lenguaje: Repo-Beta 1.3.0`
 
+## 🤖 INSTALAR POR CODE SPACE 🤖
+[Clik Aqui](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=755739704&ref=main&geo=UsEast)
+
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
